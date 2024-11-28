@@ -1,0 +1,10 @@
+0 laying
+1 standingstilll
+2 walking
+3 running
+4 sitting
+5 sittingdown
+6 standingup
+7 falldetected
+8 fallprediction
+9 walkdeterioration
